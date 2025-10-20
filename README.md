@@ -8,9 +8,7 @@ Set to skip entire days or specific time ranges, if needed
 Set number of days from current date to start list, if needed
 
 ## Configuration
-
-Edit the settings in the Config class to fit your needs:
-
+Set your desired settings in the Config class:
 ```
 # Settings
 class Config:
