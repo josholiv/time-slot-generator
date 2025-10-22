@@ -55,3 +55,17 @@ Run the script directly:
 python time-slot-generator.py
 ```
 The script prints the configuration and generated time slots in the console.
+
+# time-slot-generator-gui
+A GUI version of time-slot-generator, which also has some extra features: 
+- Generate times for any day of the week, not just weekdays
+- Specify the maximum number of slots to be generated per day
+- Can simply copy the generated list and paste elsewhere
+
+<img width="715" height="671" alt="image" src="https://github.com/user-attachments/assets/a0cb486f-cec1-4cb5-afc0-cd8358a13588" />
+
+## Usage
+Run the script directly:
+```
+python time-slot-generator-gui.py
+```
