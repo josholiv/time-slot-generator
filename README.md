@@ -1,7 +1,5 @@
 # time-slot-generator
-Script to generate a list of random time slots with custom settings and restrictions
-
-## Features
+Script to generate a list of random time slots with custom settings and restrictions:
 - Generates random time slots on weekdays between defined start and end times
 - Adjustable slot duration and start time increments
 - Set to skip entire days or specific time ranges, if needed
