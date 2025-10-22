@@ -2,10 +2,10 @@
 Script to generate a list of random time slots with custom settings and restrictions
 
 ## Features
-Generates random time slots on weekdays between defined start and end times
-Adjustable slot duration and start time increments
-Set to skip entire days or specific time ranges, if needed
-Set number of days from current date to start list, if needed
+- Generates random time slots on weekdays between defined start and end times
+- Adjustable slot duration and start time increments
+- Set to skip entire days or specific time ranges, if needed
+- Set number of days from current date to start list, if needed
 
 ## Configuration
 Set your desired settings in the Config class:
